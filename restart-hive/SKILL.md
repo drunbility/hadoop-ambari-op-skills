@@ -17,7 +17,7 @@ argument-hint: "[ambari_base_url] [cluster_name] [host_fqdn] [component_name=HIV
 - $5: password（从环境变量中获取，若为空则提示错误）
 - $6: service_name (默认为 HIVE,若为空则用默认值)
 
-如果取到足够参数：
+如果没取到足够参数：
 1) 先停下
 2) 用一句话提示缺哪些参数
 
