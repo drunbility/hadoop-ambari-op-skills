@@ -7,6 +7,7 @@ claude code ambari ops skills 集锦
 
 
 
+```
  ✅ Ambari 服务管理 Skill 已创建完成！
 
 
@@ -101,3 +102,7 @@ claude code ambari ops skills 集锦
   # 在目标机器解压到 Claude Code skills 目录
 
   cd ~/.claude/skills && unzip /tmp/ambari-service-restart.skill
+```
+
+
+
